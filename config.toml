@@ -1,0 +1,81 @@
+baseURL = "https://tiago.life/"
+languageCode = "en-uk"
+title = "Tiago Queiroz"
+homeSubtitle = "bla"
+theme = "hello-friend-ng"
+
+copyright = "all articles under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons BY-SA</a>"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Tiago Queiroz"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  enableThemeToggle = true
+  enableSharingButtons = true
+
+  # metadata for HTML
+  description = "Personal site of Tiago Queiroz"
+  # keywords = ""
+  homeSubtitle = """
+<a href=\"/tags/go/\">Go</a>,
+
+hacking<sup><a href=\"https://en.wikipedia.org/wiki/Hacker_culture\">1</a></sup>,
+electronics,
+
+cooking and the list goes on...
+"""
+
+  [params.logo]
+    logoMark     = "$" #">"
+    logoText     = "cd /home/TiagoQueiroz"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/belimawr"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCjrsXc8nA4tY7j3uk5G-jLQ"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/queiroztiago/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/belimawr_"
+
+  # Top menu
+  [[menu.main]]
+    identifier = "Posts"
+    name       = "Posts"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "Talks"
+    name       = "Talks"
+    url        = "/talks"
+
+  # [[menu.main]]
+  #   identifier = "Thoughts"
+  #   name       = "Thoughts"
+  #   url        = "/thoughts"
+
+  [[menu.main]]
+    identifier = "Videos"
+    name       = "Videos"
+    url        = "/videos"
