@@ -35,7 +35,7 @@ copyright = "all articles under <a rel=\"license\" href=\"http://creativecommons
 hacking<sup><a href=\"https://en.wikipedia.org/wiki/Hacker_culture\">1</a></sup>,
 electronics,
 
-cooking and the list goes on...
+<a href=\"https://cooking.tiago.life\" >cooking</a> and the list goes on...
 """
 
   [params.logo]
@@ -74,6 +74,11 @@ cooking and the list goes on...
   #   identifier = "Thoughts"
   #   name       = "Thoughts"
   #   url        = "/thoughts"
+
+  # [[menu.main]]
+  #   identifier = "Cooking"
+  #   name       = "Cooking"
+  #   url        = "/cooking"
 
   [[menu.main]]
     identifier = "Videos"
