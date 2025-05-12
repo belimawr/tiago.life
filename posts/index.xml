@@ -1,5 +1,12 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tiago Queiroz</title><link>https://tiago.life/posts/</link><description>Recent content in Posts on Tiago Queiroz</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><copyright>all articles under &lt;a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA&lt;/a></copyright><lastBuildDate>Mon, 05 May 2025 13:39:09 -0300</lastBuildDate><atom:link href="https://tiago.life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>EAH 2025 Maker Chip</title><link>https://tiago.life/posts/2025/05/eah-2025-maker-chip/</link><pubDate>Mon, 05 May 2025 13:39:09 -0300</pubDate><guid>https://tiago.life/posts/2025/05/eah-2025-maker-chip/</guid><description>This year my wife gave me a 3D printer as a birthday gift, having it on my background during meetings has sparked some interesting conversations, and a colleague suggested I bring something for the team, I like the idea right away and after some thinking I decided on making a Maker Chip, inspired by Zack Freedman&amp;rsquo;s video about it.
-Here I&amp;rsquo;ll share all the resources I used as well as some photos/images from the creation process.</description><content type="html"><![CDATA[<p>This year my wife gave me a 3D printer as a birthday gift, having it
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tiago Queiroz</title><link>https://tiago.life/posts/</link><description>Recent content in Posts on Tiago Queiroz</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><copyright>all articles under &lt;a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA&lt;/a></copyright><lastBuildDate>Mon, 05 May 2025 13:39:09 -0300</lastBuildDate><atom:link href="https://tiago.life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>EAH 2025 Maker Chip</title><link>https://tiago.life/posts/2025/05/eah-2025-maker-chip/</link><pubDate>Mon, 05 May 2025 13:39:09 -0300</pubDate><guid>https://tiago.life/posts/2025/05/eah-2025-maker-chip/</guid><description>&lt;p>This year my wife gave me a 3D printer as a birthday gift, having it
+on my background during meetings has sparked some interesting
+conversations, and a colleague suggested I bring something for the
+team, I like the idea right away and after some thinking I decided on
+making a Maker Chip, inspired by &lt;a href="https://www.youtube.com/watch?v=B4bMm8w1rZY">Zack
+Freedman&amp;rsquo;s&lt;/a> video about
+it.&lt;/p>
+&lt;p>Here I&amp;rsquo;ll share all the resources I used as well as some photos/images
+from the creation process.&lt;/p></description><content type="html"><![CDATA[<p>This year my wife gave me a 3D printer as a birthday gift, having it
 on my background during meetings has sparked some interesting
 conversations, and a colleague suggested I bring something for the
 team, I like the idea right away and after some thinking I decided on
@@ -28,7 +35,9 @@ Coin</a>: Templates and guide</li>
 <li><a href="https://www.thingiverse.com/thing:4275230">Elastic Logo by RonFalafel</a></li>
 <li><a href="https://nfc.flippertools.net/">Flipper Zero NFC Tag Generator</a></li>
 </ul>
-]]></content></item><item><title>Advanced Testing in Golang part 1: Mocks</title><link>https://tiago.life/posts/2020/01/advanced-testing-in-golang-part-1-mocks/</link><pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate><guid>https://tiago.life/posts/2020/01/advanced-testing-in-golang-part-1-mocks/</guid><description>This post was originally posted in OneFootball&amp;rsquo;s Tech Blog, please read it on Medium</description><content type="html"><![CDATA[<p>This post was originally posted in OneFootball&rsquo;s Tech Blog, please
+]]></content></item><item><title>Advanced Testing in Golang part 1: Mocks</title><link>https://tiago.life/posts/2020/01/advanced-testing-in-golang-part-1-mocks/</link><pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate><guid>https://tiago.life/posts/2020/01/advanced-testing-in-golang-part-1-mocks/</guid><description>&lt;p>This post was originally posted in OneFootball&amp;rsquo;s Tech Blog, please
+read it on
+&lt;a href="https://medium.com/onefootball-locker-room/advanced-testing-in-golang-part-1-mocks-a2521591f599">Medium&lt;/a>&lt;/p></description><content type="html"><![CDATA[<p>This post was originally posted in OneFootball&rsquo;s Tech Blog, please
 read it on
 <a href="https://medium.com/onefootball-locker-room/advanced-testing-in-golang-part-1-mocks-a2521591f599">Medium</a></p>
 ]]></content></item></channel></rss>
